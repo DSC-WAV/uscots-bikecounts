@@ -15,7 +15,7 @@ Wed, May 31st from 8:30am - 11:45pm ET and from 1:00 - 4:30pm ET </p>
 - 2:00p-2:15p DISCUSSION: what do you foresee going wrong with your students. Our lessons learned.
 - 2:15p-2:45p ACTIVITY/MINI-LECTURE COMBO: Sprint retrospective
 - 2:45p-3:00p BREAK
-- 3:00p-3:45p ACTIVITY: Work on own calendars/syllabi to get Scrum mapped to semesters **(Chelsey, Randi back-up)**
+- 3:00p-3:45p ACTIVITY: Work on own calendars/syllabi to get Scrum mapped to semesters 
   - Pair-share calendars 
   - Group discussion: what barriers do you see to using this project management style for your projects?
   Reflecting on using group projects to teach
