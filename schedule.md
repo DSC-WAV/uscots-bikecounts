@@ -8,7 +8,7 @@ Wed, May 31st from 8:30am - 11:45pm ET and from 1:00 - 4:30pm ET </p>
 - 10:05a-10:25a Mini lecture on Github/kanban boards 
 - 10:25a-10:50a ACTIVITY: Moving the backlog to Github: create some issues (user stories) on Github
 - 10:50am-11:05a Mini lecture on Sprint Planning Meeting
-- 11:05a-11:45a ACTIVITY: Sprint planning meeting ~~as a paper and pencil activity: move issues to kanban board and assign issues. Start work in R on issues until lunch (pull/fetch often, push frequently)
+- 11:05a-11:45a ACTIVITY: Sprint planning meeting ~~ move issues to kanban board, expand into user stories, and assign issues. Start work in R on issues until lunch (advice: pull/fetch often, push frequently)
 - 11:45a-1:00p LUNCH (on your own)
 - 1:00p-1:30p ACTIVITY: Time to work on sprint issues
 - 1:30p-2:00p ACTIVITY/MINI-LECTURE COMBO: Stand-ups
